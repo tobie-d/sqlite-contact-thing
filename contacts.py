@@ -87,5 +87,4 @@ while Running:
 
     else:
         print("Please choose a number from the list!")
-        
-    connection.close()
+
